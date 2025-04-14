@@ -6,11 +6,7 @@ Este projeto é uma API RESTful para gerenciar produtos. A API permite criar, at
 
 - **Node.js**: Ambiente de execução para JavaScript no lado do servidor.
 - **Express**: Framework para construção de APIs RESTful.
-- **MongoDB**: Banco de dados NoSQL para armazenamento de dados.
-- **Mongoose**: Biblioteca para modelagem de dados no MongoDB.
-- **Jest**: Framework de testes para garantir a qualidade do código.
 - **ESLint**: Ferramenta para análise de código estático.
-- **Prettier**: Ferramenta para formatação de código.
 
 ## Estrutura do Projeto
 
