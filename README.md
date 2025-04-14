@@ -1,6 +1,6 @@
 # Product API
 
-Este projeto é uma API RESTful para gerenciar produtos. A API permite criar, atualizar, deletar e listar produtos, com validações para garantir que os dados de entrada estejam corretos.
+Este projeto é uma API RESTful para gerenciar produtos, criada com o aúxilio da ferramenta GitHub Copilot. A API permite criar, atualizar, deletar e listar produtos, com validações para garantir que os dados de entrada estejam corretos.
 
 ## Tecnologias Utilizadas
 
@@ -36,7 +36,7 @@ product-api
 
 1. Clone o repositório:
    ```
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/MiguelMMarques06/API_Produtos.git
    ```
 2. Navegue até o diretório do projeto:
    ```
